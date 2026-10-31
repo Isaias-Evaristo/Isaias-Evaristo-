@@ -1,13 +1,14 @@
-### Olá! Sou  Isaías 👋
+### Olá! Sou Isaías 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas, pragmático e focado em aprender fazendo na prática.
 
 - 🌱 Atualmente estudando: **Java**, **Programação Orientada a Objetos** e **Banco de Dados**
 - 💻 Já pratiquei: **HTML, CSS, JavaScript, Node.js, SQLite, Git e GitHub**
-- 🚀 Projeto em destaque: uma aplicação de lista de tarefas com login e banco de dados, publicada online
+- 🚀 Projeto em destaque: [BankChain Java](https://github.com/Isaias-Evaristo/bank-chain-java) — Sistema bancário modular em Java com POO, controle de transações com `ArrayList` e arquitetura voltada para Blockchain
 
 ### Projetos
 
+- 🔗 [BankChain Java](https://github.com/Isaias-Evaristo/bank-chain-java) (Sistema Bancário com POO, Auditoria de Transações e Extrato)
 - 🔗 [Lista de Tarefas (aplicação online)](https://lista-de-tarefas-vaz6.onrender.com)
 - 🔗 [Página de apresentação (HTML)](https://isaias-evaristo.github.io/desenvolvimento-web-estudos/02-html/)
 - 🔗 [Página com CSS](https://isaias-evaristo.github.io/desenvolvimento-web-estudos/03-css/)
